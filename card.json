@@ -1,0 +1,26 @@
+{
+    "@type": "MessageCard",
+    "themeColor": "0076D7",
+    "summary": "My Rubik's cube",
+    "sections": [
+    {
+        "activityTitle": "This is a rubik's cube test",
+        "activitySubtitle": "Isn't is cool?",
+        "activityImage": "https://scx2.b-cdn.net/gfx/news/hires/2018/1-rubikscube.jpg",
+        "facts": [
+            {
+                "name": "Assigned to",
+                "value": "Me"
+            },
+            {
+                "name": "Due date",
+                "value": "When ever he like's to"
+            },
+            {
+                "name": "Status",
+                "value": "Mega cuber"
+            }
+        ]
+    }
+]
+}
